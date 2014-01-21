@@ -1,5 +1,5 @@
-Hangman
-=======
+Hangman++
+==========
 
 In this project, each team will be required to design and implement a souped-up version of the classic game, Hangman (http://en.wikipedia.org/wiki/Hangman_(game)). 
 
