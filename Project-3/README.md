@@ -49,8 +49,8 @@ Note:
 
 + If a mnemonic wraps two lines, print out both lines.
 + You should read the Moby Dick text from standard input (i.e. it enables you to use cin). i.e. if your text is in file Moby-Dick.txt, you can read the text from standard by redirecting input via "<" operator. For example, your executable should be called CS1730Mnemonic, and you would type:
-+++ ./CS1730Mnemonic 706-867-5309 < MobyDick.txt
-+++ ./CS1730Mnemonic 7068675309 < MobyDick.txt
+  + ./CS1730Mnemonic 706-867-5309 < MobyDick.txt
+  + ./CS1730Mnemonic 7068675309 < MobyDick.txt
 
 
 These above commands would take as input the text MobyDick.txt just as it would take it as if you were to type the text on your terminal.
@@ -65,8 +65,11 @@ Input and Output Requirements
 + Your code should be properly documented
 + Your code should be well-‐modularized
 + The very first three lines of output of running your program should always be:
+
 > There are X mnemonic matches for the number (XXX-XXX-XXXX)
+
 Where the X’s are replaced with the appropriate numbers; following this header, you will output the results as specified above. 
+
 + You should have four code-related files to submit including your driver, source code/header, and makefile.
 
 
