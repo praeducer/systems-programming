@@ -1,14 +1,13 @@
-
 All files created by Paul Prae
 
 To compile program:
 
-make
+> make
 
 To run the program execute:
 
-make run
+> make run
 
 To clean up after the program and remove the install execute:
 
-make clean
+> make clean
